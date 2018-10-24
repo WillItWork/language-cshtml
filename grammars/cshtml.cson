@@ -1,4 +1,6 @@
-{
+	"fileTypes": [
+		"cshtml"
+	],
 	"name": "ASP.NET Razor",
 	"scopeName": "text.html.cshtml",
 	"patterns": [
@@ -332,4 +334,3 @@
 			]
         }
 	}
-}
